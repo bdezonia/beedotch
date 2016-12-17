@@ -1,0 +1,4 @@
+*.fits
+*.o
+*.hi
+hacks
